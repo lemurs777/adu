@@ -1241,7 +1241,7 @@ input[type=number] {
 .dev-prem__img {
   position: absolute;
   top: 50%;
-  translate: 10% -50%;
+  translate: 40% -50%;
   z-index: -1;
   right: 0;
   width: 89.9375rem;
@@ -1327,10 +1327,10 @@ input[type=number] {
 
 .dev-nation {
   margin-top: -17vw;
-  padding-top: 24vw;
 }
 
 .dev-nation__top {
+  padding-top: 24vw;
   background-color: #b6ab94;
 }
 
@@ -1817,7 +1817,7 @@ input[type=number] {
   display: none !important;
 }
 
-@media (min-width: 120em) {
+@media (min-width: 120.125em) {
   .title-lg,
   .work-page__title,
   .finance-start__title,
